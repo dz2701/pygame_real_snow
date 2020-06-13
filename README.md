@@ -1,1 +1,2 @@
-# pygame_real_snow
+# Pygame Practice (snow game)
+This repo has been archived.
